@@ -1,11 +1,14 @@
 
-# Hello World!, I'm Sumama, a  Full Stack and AI / ML Developer 👋🏼
+# Hello World!, I'm Sumama👋🏼
+
+<br/>
 
 <p>
 ✨  I'm a dedicated full stack developer and AI/ML enthusiast with one year of hands-on experience in building modern, high-performance web applications and intelligent systems. Currently studying at IITP, I have a strong grasp of Data Structures and Algorithms (DSA) along with expertise in low-level system design, DBMS, OOPs, and OS fundamentals. My passion lies in solving complex problems and developing efficient, scalable solutions.
 </p>
 
----
+<br/>
+
 ## 🛠️ Tech Stack 
 
 <div align="left">
@@ -83,7 +86,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
----
+ <br/>
+ 
 ## 🔗 Connect with Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliosumama.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumama-khan)
