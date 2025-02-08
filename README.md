@@ -96,3 +96,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+<p align="right">
+  <img src="https://profile-counter.glitch.me/sumama/count.svg?"  />
+</p>
+
