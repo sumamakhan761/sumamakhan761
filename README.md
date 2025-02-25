@@ -38,7 +38,7 @@
    <img width="30" />
   <img width="30" />
   <img width="30" />
-  <img width="10" />
+<!--   <img width="10" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50" alt="materialui logo"  />
   <img width="30" />
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="50"> 
@@ -55,11 +55,14 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height="50"> 
-    <img width="30" />
   </br>
 
-
+  <img width="30" />
+  <img width="30" />
+  <img width="30" />
+  <img width="10" />
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height="50"> 
+    <img width="30" />
   <img src="https://next-auth.js.org/img/logo/logo-sm.png" height="50"> 
     <img width="30" />
   <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" height="50"> 
@@ -72,11 +75,12 @@
   <img width="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png" height="50" alt="keras logo"  />
   <img width="30" />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="50" alt="scikit-learn logo"  />
-  <img width="30" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="50" alt="scikit-learn logo"  />
   <img width="30" />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" alt="scikit-learn logo"  />
+  <img width="30" />
+  </br>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="50" alt="scikit-learn logo"  />
   <img width="30" />
   <img src="https://www.mlflow.org/docs/1.22.0/_static/MLflow-logo-final-black.png" height="50" alt="scikit-learn logo"  />
   <img width="30" />
