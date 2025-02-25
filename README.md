@@ -80,6 +80,11 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" alt="scikit-learn logo"  />
   <img width="30" />
   </br>
+
+  <img width="30" />
+  <img width="30" />
+  <img width="30" />
+  <img width="10" /> 
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="50" alt="scikit-learn logo"  />
   <img width="30" />
   <img src="https://www.mlflow.org/docs/1.22.0/_static/MLflow-logo-final-black.png" height="50" alt="scikit-learn logo"  />
@@ -94,6 +99,14 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
   <img width="30" />
+  </br>
+
+  
+  <img width="90" />
+  <img width="90" />
+  <img width="60" />
+  <img width="30" />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50" alt="kaggle logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
@@ -101,6 +114,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="30" />
 </div>
 
  <br/>
