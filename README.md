@@ -110,10 +110,12 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
+
 <div>
   <h3>Profile View</h3>
   <p align="left">
   <img src="https://profile-counter.glitch.me/sumama/count.svg?"  />
 </p>
+<img height="70" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
 
