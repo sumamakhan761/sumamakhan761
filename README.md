@@ -96,11 +96,11 @@
  </span>
 <br/>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
- <img alt="sumama's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sumamakhan761&bg_color=24292F&color=539BF5&line=F85D7F&point=FFFFFF&hide_border=true" height=280"/>
+<img alt="sumama's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sumamakhan761&bg_color=24292F&color=539BF5&line=F85D7F&point=FFFFFF&hide_border=true" height="300"/>
   
 
 ## 🔗 Connect with Me
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliosumama.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumama-khan)
 [![Leetcode](https://img.shields.io/badge/Leetocode-1DA1F2?style=for-the-badge&logo=Leetcode&logoColor=yellow)](https://leetcode.com/u/sumamakhan))
@@ -114,9 +114,10 @@
 
 <div>
   <h3>Profile View</h3>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
   <p align="left">
   <img src="https://profile-counter.glitch.me/sumama/count.svg?"  />
 </p>
-<img height="70" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div>
 
