@@ -89,7 +89,6 @@
 </div>
 
 ----
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
   <h3>🔥 Streak Stats</h3>
  <span>
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumama Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sumamakhan761&theme=github-dark-dimmed&hide_border=true&short_numbers=true" />
@@ -97,7 +96,8 @@
  </span>
 <br/>
 
- <img alt="sumama's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sumamakhan761&bg_color=24292F&color=539BF5&line=F85D7F&point=FFFFFF&hide_border=true" height="320"/>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+ <img alt="sumama's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sumamakhan761&bg_color=24292F&color=539BF5&line=F85D7F&point=FFFFFF&hide_border=true" height=280"/>
   
 
 ## 🔗 Connect with Me
