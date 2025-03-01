@@ -7,7 +7,7 @@
 ✨  I'm a dedicated full stack developer and AI/ML enthusiast with one year of hands-on experience in building modern, high-performance web applications. I have a strong grasp of Data Structures and Algorithms (DSA) along with expertise in low-level system design, DBMS, OOPs, and OS fundamentals. My passion lies in solving complex problems and developing efficient, scalable solutions.
 </p>
 
-----
+
 ## 🛠️ Tech Stack 
 
 <div align="left">
@@ -88,8 +88,8 @@
   <img width="15"  />
 </div>
 
-
 ----
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sumamakhan761&show_icons=true&theme=gotham" alt="sumama" />
 
 ## 🔗 Connect with Me
