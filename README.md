@@ -90,7 +90,14 @@
 
 ----
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sumamakhan761&show_icons=true&theme=gotham" alt="sumama" />
+
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/sumamakhan761/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sumama streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sumamakhan761&theme=github-dark-dimmed&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
+  
 
 ## 🔗 Connect with Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliosumama.vercel.app/)
