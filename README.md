@@ -11,80 +11,80 @@
 ## 🛠️ Tech Stack 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="nextjs logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="typescript logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
   <img width="15"  />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="55" alt="tailwindcss logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="55" alt="materialui logo"  />
   <img width="15"  />
-  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="60"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="55"> 
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="bootstrap logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo"  />
   <img width="15"  />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="60" alt="express logo"  />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="55" alt="express logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="mongodb logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql logo"  />
   <img width="15"  />
 
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height="60"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height="55"> 
     <img width="15"  />
-  <img src="https://next-auth.js.org/img/logo/logo-sm.png" height="60"> 
+  <img src="https://next-auth.js.org/img/logo/logo-sm.png" height="55"> 
     <img width="15"  />
-  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" height="60"> 
+  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" height="55"> 
     <img width="15"  />
-  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="60"> 
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="55"> 
     <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="docker logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="55" alt="tensorflow logo"  />
   <img width="15"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png" height="60" alt="keras logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png" height="55" alt="keras logo"  />
   <img width="15"  />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="60" alt="scikit-learn logo"  />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="55" alt="scikit-learn logo"  />
   <img width="15"  />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="60" alt="scikit-learn logo"  />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="55" alt="scikit-learn logo"  />
   <img width="15"  />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="60" alt="scikit-learn logo"  />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="55" alt="scikit-learn logo"  />
   <img width="15"  />
-  <img src="https://www.mlflow.org/docs/1.22.0/_static/MLflow-logo-final-black.png" height="60" alt="scikit-learn logo"  />
+  <img src="https://www.mlflow.org/docs/1.22.0/_static/MLflow-logo-final-black.png" height="55" alt="scikit-learn logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="55" alt="opencv logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="numpy logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="pandas logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="55" alt="jupyter logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="55" alt="kaggle logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="55" alt="anaconda logo"  />
   <img width="15"  />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo"  />
   <img width="15"  />
 </div>
 
