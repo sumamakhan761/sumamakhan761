@@ -69,8 +69,6 @@
   <img width="15"  />
   <img src="https://www.mlflow.org/docs/1.22.0/_static/MLflow-logo-final-black.png" height="50" alt="scikit-learn logo"  />
   <img width="15"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
-  <img width="15"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
   <img width="15"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
