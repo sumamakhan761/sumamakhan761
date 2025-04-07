@@ -96,10 +96,9 @@
 <span><img src="https://github-readme-stats.vercel.app/api?username=sumamakhan761&show_icons=true&theme=react&hide_border=true&bg_color=24292F&title_color=539BF5&icon_color=539BF5" alt="sumama" />
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </span>
-<br/>
+<br/> 
 
-
-<img alt="sumama's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sumamakhan761&bg_color=24292F&color=539BF5&line=F85D7F&point=FFFFFF&hide_border=true" height="300"/>
+<!--  <img alt="sumama's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sumamakhan761&bg_color=24292F&color=539BF5&line=F85D7F&point=FFFFFF&hide_border=true" height="300"/> -->
   
 
 ## 🔗 Connect with Me
