@@ -11,92 +11,92 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="20"  />
+  <img width="40"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="materialui logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="60"> 
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="60" alt="express logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="20"  />
+  <img width="40"  />
 
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" height="60"> 
-    <img width="20"  />
+    <img width="40"  />
   <img src="https://next-auth.js.org/img/logo/logo-sm.png" height="60"> 
-    <img width="20"  />
+    <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" height="60" alt="redis logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png" height="60" alt="keras logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" height="60" alt="scikit-learn logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="60" alt="scikit-learn logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="60" alt="scikit-learn logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://www.mlflow.org/docs/1.22.0/_static/MLflow-logo-final-black.png" height="60" alt="scikit-learn logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="20"  />
+  <img width="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="20"  />
+  <img width="40"  />
 </div>
 
 ----
   <h3>🔥 Streak Stats</h3>
  <span>
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumama Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sumamakhan761&theme=github-dark-dimmed&hide_border=true&short_numbers=true" />
-  <img alt=Sumama Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumamakhan761&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=24292F&title_color=539BF5&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img alt=Sumama Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumamakhan761&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=24292F&title_color=539BF5&icon_color=F8D866&hide=Jupyter%40Notebook,Roff" height="192px"/>
  </span>
 <span><img src="https://github-readme-stats.vercel.app/api?username=sumamakhan761&show_icons=true&theme=react&hide_border=true&bg_color=24292F&title_color=539BF5&icon_color=539BF5" alt="sumama" />
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87402985-840dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='400'>
 </span>
 <br/> 
 
