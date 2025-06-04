@@ -108,7 +108,6 @@
 
 ## 🔗 Connect with Me
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliosumama.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumama-khan)
 [![Leetcode](https://img.shields.io/badge/Leetocode-1DA1F2?style=for-the-badge&logo=Leetcode&logoColor=yellow)](https://leetcode.com/u/sumamakhan))
 
