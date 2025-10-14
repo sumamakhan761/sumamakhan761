@@ -93,11 +93,9 @@
   <h3>🔥 Streak Stats</h3>
  <span>
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumama Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sumamakhan761&theme=github-dark-dimmed&hide_border=true&short_numbers=true" />
-   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
  </span>
  </br>
-<!--   <img alt=Sumama Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumamakhan761&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=24292F&title_color=539BF5&icon_color=F8D866&hide=Jupyter%40Notebook,Roff" height="192px"/>
-!-->
+  <!-- <img alt=Sumama Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumamakhan761&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=24292F&title_color=539BF5&icon_color=F8D866&hide=Jupyter%40Notebook,Roff" height="192px"/> -->
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=sumamakhan761&show_icons=true&theme=react&hide_border=true&bg_color=24292F&title_color=539BF5&icon_color=539BF5" alt="sumama" />
 </span>
