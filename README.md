@@ -3,7 +3,7 @@
 <br/>
 
 <p>
-✨  I'm a dedicated full stack developer and AI/ML enthusiast with one year of hands-on experience in building modern, high-performance web applications. I have a strong grasp of Data Structures and Algorithms (DSA) along with expertise in low-level system design, DBMS, OOPs, and OS fundamentals. My passion lies in solving complex problems and developing efficient, scalable solutions.
+✨  I'm a dedicated full stack developer and AI/ML enthusiast with 1.5 year of experience in building modern, high-performance web applications. I have a strong grasp of Data Structures and Algorithms (DSA) along with expertise in system design, DBMS, OOPs, and OS fundamentals.
 </p>
 
 
