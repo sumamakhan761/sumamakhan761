@@ -3,7 +3,7 @@
 <br/>
 
 <p>
-I'm running a AI transformation cunsultant firm with 3 year of experience in building modern, high-performance, scalable applications.
+Running an AI transformation cunsultant firm with 3 year of experience in building modern, high-performance, scalable applications.
 </p>
 
 
