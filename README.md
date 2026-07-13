@@ -96,9 +96,6 @@ Running an AI transformation cunsultant firm with 3 year of experience in buildi
  </span>
  </br>
   <!-- <img alt=Sumama Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumamakhan761&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=24292F&title_color=539BF5&icon_color=F8D866&hide=Jupyter%40Notebook,Roff" height="192px"/> -->
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumamakhan761&show_icons=true&theme=react&hide_border=true&bg_color=24292F&title_color=539BF5&icon_color=539BF5" alt="sumama" />
-</span>
 
 <br/> 
 
@@ -109,11 +106,7 @@ Running an AI transformation cunsultant firm with 3 year of experience in buildi
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumama-khan)
 [![Leetcode](https://img.shields.io/badge/Leetocode-1DA1F2?style=for-the-badge&logo=Leetcode&logoColor=yellow)](https://leetcode.com/u/sumamakhan))
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=sumamakhan761&hide_border=true)
 
 
 <div>
